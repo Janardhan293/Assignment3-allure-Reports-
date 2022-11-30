@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/Users/janardhan/IntelliJProjects/AppiumTestcases(failed)">
+    <classes>
+      <class name="Testcases.TC02SendText">
+        <methods>
+          <include name="sendTextsToDefault"/>
+          <include name="appLaunch"/>
+          <include name="teardown"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Testcases.TC02SendText -->
+      <class name="Testcases.TC01PickDateTests">
+        <methods>
+          <include name="changeTime"/>
+          <include name="launchApp"/>
+          <include name="appLaunch"/>
+          <include name="teardown"/>
+          <include name="changeDate"/>
+        </methods>
+      </class> <!-- Testcases.TC01PickDateTests -->
+    </classes>
+  </test> <!-- /Users/janardhan/IntelliJProjects/AppiumTestcases(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

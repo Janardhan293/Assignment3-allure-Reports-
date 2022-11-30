@@ -1,0 +1,1 @@
+{"uuid":"14e22ecb-c6a0-4f02-979b-483207e04343","name":"Testcases.TC02SendText","children":["3c406ed4-a1aa-417c-9618-318c2c239a91"],"befores":[{"name":"launchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1669816424559,"stop":1669816424560}],"afters":[],"start":1669816405086,"stop":1669816427894}
